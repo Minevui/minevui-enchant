@@ -33,6 +33,11 @@
                 <ResultTable :results="filteredResults" :query="query"></ResultTable>
             </div>
         </div>
+        <div class="row">
+            <div class="footer text-center text-white bg-dark">
+                2024 &copy; Bản quyền thuộc về Minevui Network
+            </div>
+        </div>
     </div>
 </template>
 
@@ -100,5 +105,8 @@ export default {
 <style scoped>
 body {
     font-family: Arial, sans-serif;
+}
+.footer {
+    padding: 10px;
 }
 </style>

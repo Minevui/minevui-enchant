@@ -3,9 +3,9 @@
         <div class="container-fluid">
             <a class="navbar-brand text-warning" href="/">
                 <img
-                    src="../assets/logo.svg"
+                    src="/logo.png"
                     alt=""
-                    width="30"
+                    width="24"
                     height="24"
                     class="d-inline-block align-text-top"
                 />
