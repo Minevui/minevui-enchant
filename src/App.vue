@@ -1,5 +1,6 @@
 <template>
     <div id="app" class="container-fluid">
+        <NavBar></NavBar>
         <div class="row justify-content-center my-4">
             <div class="col-md-6">
                 <input
@@ -38,11 +39,13 @@
 <script>
 import axios from 'axios'
 import ResultTable from './components/ResultTable.vue'
+import NavBar from './components/NavBar.vue'
 
 export default {
     name: 'App',
     components: {
-        ResultTable
+        ResultTable,
+        NavBar
     },
     data() {
         return {
