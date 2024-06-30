@@ -1,308 +1,308 @@
 [
     {
         "name": "Abiding",
-        "description": "Vũ khí với phù phép này trở nên không thể phá vỡ.",
+        "description": "Vũ khí dell bao giờ hư :)",
         "applicable_items": "Weapons",
         "rarity": "Legendary",
         "max_level": 1
     },
     {
         "name": "Aegis",
-        "description": "Cơ hội tăng tốc độ khi nhận sát thương rơi.",
+        "description": "Có tỉ lệ tăng tốc độ khi té",
         "applicable_items": "Boots",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Allure",
-        "description": "Cuộc tấn công của bạn kéo các đám đông về phía bạn.",
+        "description": "Đòn đánh kéo mob về phía bạn",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Ambit",
-        "description": "Gây sát thương cho quái vật trong một bán kính tăng lên theo cấp độ của phù phép.",
+        "description": "Tăng sát thương cho mobs trong bán kính (tăng dần với mỗi cấp độ cường hóa)",
         "applicable_items": "Swords, Axes",
         "rarity": "Ultimate",
         "max_level": 7
     },
     {
         "name": "Angelic",
-        "description": "Hồi phục sức khỏe khi bị thương.",
+        "description": "Hồi máu khi dính sát thương",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
-        "name": "Auto Reel",
-        "description": "Tự động kéo cần câu khi nó bị cắn.",
-        "applicable_items": "Fishing Rods",
-        "rarity": "Ultimate",
-        "max_level": 4
-    },
-    {
         "name": "Aqua",
-        "description": "Gây sát thương gấp đôi khi ở dưới nước.",
+        "description": "Gây sát thương gấp đôi khi ở dưới nước",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Aquatic",
-        "description": "Thở dưới nước.",
+        "description": "Thở dưới nước",
         "applicable_items": "Helmets",
         "rarity": "Simple",
         "max_level": 1
     },
     {
         "name": "Archer",
-        "description": "Tăng sát thương gây ra với cung.",
+        "description": "Tăng sát thương gây ra với cung",
         "applicable_items": "Bow",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Armored",
-        "description": "Giảm sát thương từ kiếm của kẻ thù 2% mỗi cấp.",
+        "description": "Giảm damage từ kiếm của kẻ địch (tăng 2% mỗi cấp độ)",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Arrow Break",
-        "description": "Cơ hội để mũi tên bật ra khỏi bạn khi giữ vật phẩm với phù phép này.",
+        "description": "Có tỉ lệ làm mũi tên bật ngược lại khi cầm vật phẩm có cường hóa này",
         "applicable_items": "Axe",
         "rarity": "Ultimate",
         "max_level": 6
     },
     {
         "name": "Arrow Deflect",
-        "description": "Cơ hội ngăn cản mũi tên của kẻ thù gây sát thương.",
+        "description": "Có tỉ lệ ngăn chặn sát thương từ mũi tên",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
-        "name": "Axe of Spirits",
-        "description": "Cơ hội nhận được nhiều linh hồn hơn khi giết người chơi.",
+        "name": "Auto Reel",
+        "description": "Tự động giật dây khi cá cắn câu",
+        "applicable_items": "Fishing Rods",
+        "rarity": "Ultimate",
+        "max_level": 4
+    },
+    {
+        "name": "Axe Of Spirits",
+        "description": "Có tỉ lệ hấp thụ linh hồn nhiều hơn khi giêt người chơi khác",
         "applicable_items": "Axes",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Bait",
-        "description": "Cơ hội nhận được gấp đôi số lượng thả câu.",
+        "description": "Có tỉ lệ nhận cá gấp đôi khi câu",
         "applicable_items": "Fishing Rod",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Barbarian",
-        "description": "Cơ hội gây thêm sát thương rìu.",
+        "description": "Có tỉ lệ gây sát thương bằng rìu cao hơn.",
         "applicable_items": "Axes",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Beastslayer",
-        "description": "Tăng sát thương gây ra cho quái vật thù địch.",
+        "description": "Tăng sát thương lên quái",
         "applicable_items": "Swords, Axes",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Berserk",
-        "description": "Cơ hội có sức mạnh và mệt mỏi khai thác.",
+        "description": "Có tỉ lệ nhận hiệu ứng mạnh và đào chậm",
         "applicable_items": "Swords, Axes",
         "rarity": "Unique",
         "max_level": 5
     },
     {
         "name": "Blacksmith",
-        "description": "Sửa chữa vũ khí của bạn để đổi lấy việc gây ít sát thương hơn.",
+        "description": "Gây ít sát thương hơn để sửa chữa vũ khí",
         "applicable_items": "Axe",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Bleed",
-        "description": "Làm đối thủ của bạn chảy máu.",
+        "description": "Làm đối thủ chảy máu.",
         "applicable_items": "Axes",
         "rarity": "Ultimate",
         "max_level": 6
     },
     {
         "name": "Blind",
-        "description": "Cơ hội gây mù khi tấn công.",
+        "description": "Có tỉ lệ gây hiệu ứng mù lòa khi tấn công",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Block",
-        "description": "Cơ hội phủ định một đòn tấn công và gây sát thương lên đến 4.",
+        "description": "Có tỉ lệ chặn đòn đánh và gây lên tới 4 sát thương ngược lại",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Blunt Force",
-        "description": "Cơ hội đánh mạnh.",
+        "description": "Có tỉ lệ đánh chí mạng với sát thương cao hơn.",
         "applicable_items": "Axes",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Bone Crusher",
-        "description": "Tăng sát thương gây ra cho Skeletons.",
+        "description": "Tăng sát thương lên skeleton",
         "applicable_items": "Swords, Axes",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Bowmaster",
-        "description": "Nhân sát thương lên người chơi đang cầm kiếm tại thời điểm bị trúng.",
+        "description": "Tăng sát thương lên người chơi cầm kiếm trên tay khi họ đánh",
         "applicable_items": "Bow, Crossbow, Trident",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Carrot Planter",
-        "description": "Trồng cà rốt trong khu vực 3x3 bằng cách nhấn shift + nhấp chuột phải.",
+        "description": "Trồng cà rốt 3x3 khi shift chuột phải",
         "applicable_items": "Hoes",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Chaos",
-        "description": "Gây hiệu ứng yếu và wither.",
+        "description": "Gây hiệu ứng yếu đuối và héo mòn",
         "applicable_items": "Trident",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Chunky",
-        "description": "Cơ hội nhận ít sát thương hơn.",
+        "description": "Có tỉ lệ nhận ít sát thương hơn",
         "applicable_items": "Chestplates",
         "rarity": "Legendary",
         "max_level": 6
     },
     {
         "name": "Cleave",
-        "description": "Gây sát thương cho người chơi trong bán kính tăng theo cấp độ của phù phép.",
+        "description": "Gây sát thương cao hơn cho đối thủ trong bán kính theo từng cấp độ cường hóa",
         "applicable_items": "Axes",
         "rarity": "Ultimate",
         "max_level": 7
     },
     {
         "name": "Confuse",
-        "description": "Cơ hội gây hiệu ứng chóng mặt.",
+        "description": "Có tỉ lệ gây hiệu ứng chóng mặt",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Convulse",
-        "description": "Cơ hội ném kẻ tấn công bạn lên không trung.",
+        "description": "Có tỉ lệ hất đối thủ lên cao",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 6
     },
     {
         "name": "Creeper Armor",
-        "description": "Cơ hội miễn nhiễm sát thương nổ, ở cấp độ cao hơn có cơ hội hồi phục.",
+        "description": "Có tỉ lệ ngăn chặn sát thương nổ (ở cấp cao hơn có khả năng hồi phục)",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Critical",
-        "description": "Tăng sát thương gây ra khi đánh chí mạng.",
+        "description": "Tăng sát thương với đòn đánh chí mạng",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Curse",
-        "description": "Cơ hội gây mệt mỏi khai thác cho kẻ thù của bạn.",
+        "description": "Có tỉ lệ gây hiệu ứng đào chậm cho đối thủ",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 2
     },
     {
         "name": "Deadshot",
-        "description": "Headshots với tridents gây sát thương gấp đôi.",
+        "description": "Xuyên táo với đinh ba gây sát thương gấp đôi",
         "applicable_items": "Trident",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Death Punch",
-        "description": "Tăng sát thương gây ra cho Zombies.",
+        "description": "Tăng sát thương lên zombie",
         "applicable_items": "Swords, Axes",
         "rarity": "Simple",
         "max_level": 5
     },
     {
         "name": "Decapitation",
-        "description": "Có tỉ lệ lấy được đầu đối thủ khi giết chết.",
+        "description": "Có tỉ lệ làm đầu đối thủ rơi khi giết",
         "applicable_items": "Swords, Axes",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Deranged",
-        "description": "Đánh sét vào những người chơi ở gần.",
+        "description": "Gây sấm sét lên người chơi gần đó",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Devour",
-        "description": "Có tỉ lệ phục hồi thức ăn khi tiêu diệt mob.",
+        "description": "Có tỉ lệ hồi phục thức ăn khi giết mob",
         "applicable_items": "Weapons",
         "rarity": "Unique",
         "max_level": 3
     },
     {
         "name": "Diminish",
-        "description": "Có tỉ lệ khiến kẻ thù của bạn bị mệt mỏi.",
+        "description": "Có tỉ lệ gây hiệu ứng đào chậm cho đối thủ",
         "applicable_items": "Axes",
         "rarity": "Ultimate",
         "max_level": 1
     },
     {
         "name": "Diploid",
-        "description": "Có tỉ lệ tăng số lượng mob drops. Kích hoạt sẽ tốn 5 linh hồn.",
+        "description": "Có tỉ lệ nhân thêm vật phẩm rớt từ mob , tốn 5 linh hồn mỗi lần",
         "applicable_items": "Swords",
         "rarity": "Fabled",
         "max_level": 5
     },
     {
         "name": "Disappear",
-        "description": "Có tỉ lệ trở nên vô hình khi thấp máu.",
+        "description": "Có tỉ lệ tàng hình khi máu thấp",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Disarm",
-        "description": "Có tỉ lệ tước vũ khí của đối thủ.",
+        "description": "Có tỉ lệ tước vũ khí đối thủ",
         "applicable_items": "Swords",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Disarmor",
-        "description": "Có tỉ lệ loại bỏ mảnh áo giáp ngẫu nhiên từ đối thủ của bạn.",
+        "description": "Có tỉ lệ tước giáp bất kì từ đối thủ",
         "applicable_items": "Sword",
         "rarity": "Legendary",
         "max_level": 8
     },
     {
         "name": "Disintegrate",
-        "description": "Có tỉ lệ gây giảm độ bền cho tất cả áo giáp của kẻ địch trong mỗi đòn tấn công.",
+        "description": "Có tỉ lệ gây hỏng gấp đôi độ bền tới tất cả giáp đối thủ trong mỗi đòn đánh",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 4
@@ -330,21 +330,21 @@
     },
     {
         "name": "Double Strike",
-        "description": "Có tỉ lệ tấn công hai lần.",
+        "description": "Có tỉ lệ gây chí mạng 2 lần",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Ender Slayer",
-        "description": "Tăng sát thương gây ra cho rồng Ender và Enderman.",
+        "description": "Tăng sát thương gây lên quái the end",
         "applicable_items": "Weapons",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Endmaster",
-        "description": "Gây sát thương gấp đôi cho mob ở khu vực the end.",
+        "description": "Gây sát thương gấp đôi cho quái the end",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
@@ -365,28 +365,28 @@
     },
     {
         "name": "Experience",
-        "description": "Có tỉ lệ nhận được nhiều kinh nghiệm hơn từ quặng.",
+        "description": "Có tỉ lệ lấy nhiều kinh nghiệm hơn từ khoáng sản",
         "applicable_items": "Tools",
         "rarity": "Simple",
         "max_level": 5
     },
     {
         "name": "Explosive",
-        "description": "Mũi tên bắn ra có tỉ lệ phát nổ.",
+        "description": "Có tỉ lệ làm mũi tên phát nổ",
         "applicable_items": "Bow",
         "rarity": "Unique",
         "max_level": 5
     },
     {
         "name": "Explosive Demise",
-        "description": "Triệu hồi Creeper làm hộ vệ khi sắp chết.",
+        "description": "Triệu hồi creeper như hộ vệ khi bạn gần die",
         "applicable_items": "Leggings",
         "rarity": "Unique",
         "max_level": 8
     },
     {
         "name": "Extinguish",
-        "description": "Có tỉ lệ tự dập lửa khi bị cháy.",
+        "description": "Có tỉ lệ dập lửa khi cháy",
         "applicable_items": "Leggings",
         "rarity": "Elite",
         "max_level": 3
@@ -414,476 +414,476 @@
     },
     {
         "name": "Forcefield",
-        "description": "Có tỉ lệ để đẩy lùi đối thủ của bạn.",
+        "description": "Có tỉ lệ đẩy đối thủ bạn ra xa",
         "applicable_items": "Swords",
         "rarity": "Simple",
         "max_level": 5
     },
     {
         "name": "Frenzy",
-        "description": "Có tỉ lệ làm mũi tên phát nổ.",
+        "description": "Có tỉ lệ làm mũi tên gây nổ",
         "applicable_items": "Crossbow",
         "rarity": "Unique",
         "max_level": 5
     },
     {
         "name": "Frozen",
-        "description": "Có thể gây chậm cho kẻ tấn công khi phòng thủ.",
+        "description": "Gây hiệu ứng đi chậm cho đối thủ khi phòng thủ",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Fuddle",
-        "description": "Vô hiệu hóa hotbar của đối thủ.",
+        "description": "Gây rốii loạn phím tắt cho đối thủ.",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Fumble",
-        "description": "Có tỉ lệ làm kẻ địch nổ tung khi trúng mũi tên của chúng.",
+        "description": "Có tỉ lệ làm đối thủ phát nổ khi bị dính mũi tên đối thủ",
         "applicable_items": "Chestplate",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Gears",
-        "description": "Đã thêm tốc độ khi được trang bị.",
+        "description": "Tăng tốc độ khi trang bị",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Glowing",
-        "description": "Cung cấp tầm nhìn ban đêm vĩnh viễn.",
+        "description": "Hiệu ứng nhìn đêm vĩnh viễn",
         "applicable_items": "Helmet",
         "rarity": "Simple",
         "max_level": 1
     },
     {
         "name": "Greatsword",
-        "description": "Nhân lên gấp nhiều lần sát thương đối với những người chơi đang cầm Cung vào thời điểm họ bị bắn trúng.",
+        "description": "Tăng sát thương lên người chơi cầm cung",
         "applicable_items": "Sword",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Guardians",
-        "description": "Có tỉ lệ sinh ra golem sắt để hỗ trợ và trông chừng bạn.",
+        "description": "Có tỉ lệ sinh ra iron golem để bảo vệ bạn",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 10
     },
     {
         "name": "Hardened",
-        "description": "Có tỉ lệ phục hồi độ bền khi bị người chơi làm hỏng.",
+        "description": "Có tỉ lệ hồi phục độ bền khi dính sát thương từ người chơi khác",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Haste",
-        "description": "Cho phép bạn xoay công cụ của mình nhanh hơn.",
+        "description": "Vung công cụ nhanh hơn",
         "applicable_items": "Tools",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Hasten",
-        "description": "Có tỉ lệ nhận được Haste sau khi phá vỡ các khối.",
+        "description": "Có tỉ lệ nhận hiệu ứng đào nhanh khi đập block",
         "applicable_items": "Tools",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Heavy",
-        "description": "Giảm sát thương từ cung của kẻ thù 2% mỗi cấp.",
+        "description": "Giảm damage từ cung kẻ địch (tăng 2% mỗi cấp độ)",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Hellfire",
-        "description": "Mũi tên biến thành quả cầu lửa.",
+        "description": "Mũi tên biến thành cầu lửa",
         "applicable_items": "Bow",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Hook",
-        "description": "Nhận thêm điểm kinh nghiệm từ việc câu cá.",
+        "description": "Nhận nhiều kinh nghiệm hơn khi câu cá",
         "applicable_items": "Fishing Rod",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Hook (Ultimate)",
-        "description": "Có tỉ lệ tăng may mắn khi câu cá.",
+        "description": "Có tỉ lệ tăng may mắn khi câu cá",
         "applicable_items": "Fishing Rod",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Hunter",
-        "description": "Tăng sát thương gây ra cho Mob thụ động.",
+        "description": "Tăng sát thương lleenmob bị động",
         "applicable_items": "Bow, Crossbow, Trident",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Ice Aspect",
-        "description": "Có khả năng gây hiệu ứng làm chậm lên kẻ địch của bạn.",
+        "description": "Có tỉ lệ gây hiệu ứng đi chậm cho đối thủ",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Immolate",
-        "description": "Tăng sát thương gây ra cho Nhện.",
+        "description": "Tăng sát thương lên nhện",
         "applicable_items": "Swords, Axes",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Immolation",
-        "description": "Đốt cháy tất cả mob trong bán kính.",
+        "description": "Gây cháy cho tất cả mob trong bán kính",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Immortal",
-        "description": "Có tỉ lệ ngăn áo giáp của bạn nhận sát thương về độ bền.",
+        "description": "Có tỉ lệ ngăn chặn giáp giảm độ bền",
         "applicable_items": "Armor",
         "rarity": "Fabled",
         "max_level": 4
     },
     {
         "name": "Impact",
-        "description": "Có tỉ lệ nhân đôi sát thương.",
+        "description": "Có tỉ lệ gây sát thương gấp đôi",
         "applicable_items": "Trident",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Implants",
-        "description": "Có tỉ lệ phục hồi thức ăn cứ sau vài giây.",
+        "description": "Có tỉ lệ hồi phục độ đói mỗi giây",
         "applicable_items": "Helmets",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Infernal",
-        "description": "Hiệu ứng cháy nổ.",
+        "description": "Gây hiệu ứng nổ kèm cháy.",
         "applicable_items": "Swords, Axes",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Inflame",
-        "description": "Đốt cháy tất cả người chơi trong bán kính.",
+        "description": "Gây cháy cho đối thủ trong bán kính",
         "applicable_items": "Axes",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Inquisitive",
-        "description": "Có tỉ lệ tăng EXP rơi ra từ mob.",
+        "description": "Có tỉ lệ tăng lượng xp rớt từ mob",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Interrupt",
-        "description": "Có tỉ lệ khiến kẻ thù của bạn khai thác mệt mỏi.",
+        "description": "Có tỉ lệ gây hiệu ứng đào chậm cho đối thủ",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 2
     },
     {
         "name": "Jelly Legs",
-        "description": "Có tỉ lệ vô hiệu hóa sát thương rơi.",
+        "description": "Có tỉ lệ né sát thương rơi",
         "applicable_items": "Boots",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Judgement",
-        "description": "Có khả năng đầu độc đối thủ và hồi phục.",
+        "description": "Có tỉ lệ gây độc đối thủ và hồi máu",
         "applicable_items": "Elytra",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Kill Aura",
-        "description": "Có tỉ lệ tiêu diệt nhiều\\nquái vật trong bán kính.",
+        "description": "Có tỉ lệ giết nhiều quái trong bán kính",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Launch",
-        "description": "Tự khởi động bằng cách nhấp chuột phải.",
+        "description": "Phóng bản thân bạn bằng chuột phải",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Lava Walker",
-        "description": "Đi bộ trên dung nham.",
+        "description": "Đi trên lava",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 1
     },
     {
         "name": "Lifesteal",
-        "description": "Một Có tỉ lệ để đánh cắp sức khỏe khi tấn công.",
+        "description": "Có tỉ lệ đánh cắp trái tim khi tấn công",
         "applicable_items": "Swords",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Longbow",
-        "description": "Tăng đáng kể sát thương gây ra cho người chơi địch có cung trên tay.",
+        "description": "Tăng dmg gây ra đối với người chơi cầm cung",
         "applicable_items": "Bow",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Lucid",
-        "description": "Có tỉ lệ chữa bệnh mù lòa và có được tầm nhìn ban đêm khi bị đánh.",
+        "description": "Có tỉ lệ ngăn chặn hiệu ứng mù lòa và nhận hiệu ứng nhìn trong đêm khi đánh",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Magnet",
-        "description": "Cuộc tấn công của bạn kéo người chơi về phía bạn.",
+        "description": "Đòn tấn công của bạn kéo người chơi về phía bạn",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Marksman",
-        "description": "Tăng sát thương gây ra với Nỏ.",
+        "description": "Tăng sát thương gây ra với nỏ",
         "applicable_items": "Crossbow",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Missile",
-        "description": "Mũi tên biến thành quả cầu lửa.",
+        "description": "Mũi tên biến thành cầu lửa",
         "applicable_items": "Crossbow",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Molten",
-        "description": "Có tỉ lệ khiến kẻ tấn công của bạn bốc cháy.",
+        "description": "Có khả năng gây cháy cho đối thủ",
         "applicable_items": "Armor",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Momentum",
-        "description": "Có tỉ lệ tăng tốc độ với pháo hoa.",
+        "description": "Có tỉ lệ tăng tốc với pháo hoa",
         "applicable_items": "Elytra",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Multiplication",
-        "description": "Có tỉ lệ nhân lên nhiều giọt quặng. Tốn 5 linh hồn/kích hoạt.",
+        "description": "Có tỉ lệ nhân số quặng lên, tốn 5 linh hồn mỗi lần",
         "applicable_items": "Pickaxe",
         "rarity": "Fabled",
         "max_level": 5
     },
     {
         "name": "Nether Slayer",
-        "description": "Tăng sát thương gây ra cho đám đông Nether.",
+        "description": "Tăng sát thương gây lên quái địa ngục",
         "applicable_items": "Weapons",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Netherling",
-        "description": "Gây sát thương gấp đôi cho mob ở Nether.",
+        "description": "Gây gấp đôi sát thương cho quái địa ngục",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Neutralize",
-        "description": "Có tỉ lệ tước vũ khí của đối thủ.",
+        "description": "Có tỉ lệ tước vũ khí đối thủ",
         "applicable_items": "Bow, Crossbow",
         "rarity": "Fabled",
         "max_level": 2
     },
     {
         "name": "Night Owl",
-        "description": "Gây thêm sát thương cho mob vào ban đêm.",
+        "description": "Tăng sát thương gây lên mob vào ban đêm",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 1
     },
     {
         "name": "Nightwalker",
-        "description": "Đóng băng mob vào ban đêm.",
+        "description": "Đóng băng mob vào ban đêm",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Nulify",
-        "description": "Có tỉ lệ phản đòn tấn công và nhân lên sát thương. Tốn 40 linh hồn/kích hoạt.",
+        "description": "Có tỉ lệ né đòn đánh và nhân st, tốt 40 linh hồn 1 lần",
         "applicable_items": "Leggings",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Obsidianshield",
-        "description": "Cung cấp khả năng chống cháy vĩnh viễn.",
+        "description": "Kháng lửa vĩnh viễn",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 1
     },
     {
         "name": "Overload",
-        "description": "Mở khóa thêm trái tim.",
+        "description": "Tăng thêm máu",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Paralyze",
-        "description": "Mang lại hiệu ứng sét và Có tỉ lệ để di chuyển chậm và vung chậm.",
+        "description": "Gây sét đánh và Có tỉ lệ đi chậm và đánh chậm.",
         "applicable_items": "Swords, Axes",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Patch",
-        "description": "Có tỉ lệ phục hồi độ bền khi bị mob phá hủy.",
+        "description": "Có tỉ lệ hồi phục độ bền khi nhận sát thương từ mob",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Perish",
-        "description": "Một Có tỉ lệ để tạo ra hiệu ứng héo.",
+        "description": "Có tỉ lệ gây hiệu ứng khô héo",
         "applicable_items": "Bow, Crossbow, Trident",
         "rarity": "Unique",
         "max_level": 5
     },
     {
         "name": "Permafrost",
-        "description": "Có khả năng làm chậm và làm chảy máu đối thủ.",
+        "description": "Có tỉ lệ làm chậm và chảy máu đối thủ",
         "applicable_items": "Swords",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Phoenix",
-        "description": "Có tỉ lệ hồi sinh bản thân khi bị giết.",
+        "description": "Có tỉ lệ hồi sinh bản thân khi bị giết",
         "applicable_items": "Chestplates",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Piercing",
-        "description": "Gây thêm sát thương.",
+        "description": "Gây nhiều sát thương hơn",
         "applicable_items": "Bows",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Planter",
-        "description": "Gieo hạt trong khu vực 3x3 bằng cách shift+chuột phải.",
+        "description": "Trồng hạt giống 3x3 khi shift chuột phải",
         "applicable_items": "Hoes",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Plummet",
-        "description": "Gây sát thương cho mob gần đó khi nhận sát thương rơi.",
+        "description": "Gây sát thương cho mob ở gần khi té",
         "applicable_items": "Boots",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Poison",
-        "description": "Một Có tỉ lệ để tạo ra hiệu ứng độc.",
+        "description": "Có tỉ lệ gây độc",
         "applicable_items": "Swords, Axes",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Poisoned",
-        "description": "Có tỉ lệ cung cấp chất độc cho kẻ tấn công bạn.",
+        "description": "Có tỉ lệ gây hiệu ứng độc cho đối thủ",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Poisoned Hook",
-        "description": "Đầu độc cái móc.",
+        "description": "Gây hiệu ứng độc với cần câu",
         "applicable_items": "Fishing Rod",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Poseidon",
-        "description": "Tăng sát thương gây ra với Cây đinh ba.",
+        "description": "Tăng sát thương gây ra với đinh ba",
         "applicable_items": "Trident",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Potato Planter",
-        "description": "Trồng khoai tây trong khu vực 3x3 bằng cách shift+chuột phải.",
+        "description": "Trồng khoai tây 3x3 khi shift chuột phải",
         "applicable_items": "Hoes",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Ragdoll",
-        "description": "Có khả năng bị đẩy lùi khi bị đánh.",
+        "description": "Có khả năng bị đẩy lùi khi nhận st",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Ravenous",
-        "description": "Có tỉ lệ lấy lại cơn đói khi chiến đấu.",
+        "description": "Có tỉ lệ hồi độ đói khi đang đánh nhau",
         "applicable_items": "Swords, Axes",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Reaper",
-        "description": "Có tỉ lệ mang lại cho đối thủ hiệu ứng Wither và Blindness trong khi gây sát thương",
+        "description": "Có tỉ lệ gây hiệu ứng khô héo và mù quáng cho đối thủ khi gây st.",
         "applicable_items": "Axe",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Rebound",
-        "description": "Nhận lại một số máu sau khi tiêu diệt.",
+        "description": "hồi máu sau khi giết",
         "applicable_items": "Weapons",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Rebreather",
-        "description": "Có tỉ lệ lấy lại không khí khi khai thác dưới nước.",
+        "description": "Có tỉ lệ hồi không khí khi đào dưới nước",
         "applicable_items": "Pickaxe",
         "rarity": "Simple",
         "max_level": 2
     },
     {
         "name": "Reflect",
-        "description": "Hấp thụ sát thương của kẻ địch và phản lại.",
+        "description": "Né sát thương và gây lượng sát thương tương tự lên kẻ thù",
         "applicable_items": "Armor",
         "rarity": "Unique",
         "max_level": 5
@@ -897,231 +897,231 @@
     },
     {
         "name": "Reinforced",
-        "description": "Giảm sát thương gây ra cho bạn.",
+        "description": "Giảm sát thương nhận vào",
         "applicable_items": "Elytra",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Replanter",
-        "description": "Trồng lại cây trồng khi thu hoạch",
+        "description": "Trồng lại cây khi thu hoạch",
         "applicable_items": "Hoes",
         "rarity": "Unique",
         "max_level": 1
     },
     {
         "name": "Replenish",
-        "description": "Có tỉ lệ phục hồi lương thực trong khi khai thác.",
+        "description": "Có tỉ lệ hồi độ đói khi đào",
         "applicable_items": "Pickaxes",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Restore",
-        "description": "Khi bị vỡ, vật phẩm Có tỉ lệ mất bùa mê này và hồi phục một nửa độ bền của nó.",
+        "description": "Thay vì bị hỏng, vật phẩm Có tỉ lệ mất dòng cường hóa này và sửa chửa 1 nửa độ bền.",
         "applicable_items": "Tools",
         "rarity": "Fabled",
         "max_level": 4
     },
     {
         "name": "Rocket Escape",
-        "description": "Vụ nổ lên không trung ở mức HP thấp.",
+        "description": "Phóng lên không trung khi máu thấp",
         "applicable_items": "Boots",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Rush",
-        "description": "Có tỉ lệ tăng tốc độ khi cất cánh với elytra. Tốn 10 linh hồn/kích hoạt.",
+        "description": "Tăng tốc độ bay với elytra, 10 linh hồn 1 lần",
         "applicable_items": "Elytra",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Safeguard",
-        "description": "Có tỉ lệ nhận được Kháng sát thương khi phòng thủ.",
+        "description": "Có tỉ lệ không nhận sát thương khi phòng thủ",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 2
     },
     {
         "name": "Scare",
-        "description": "Có tỉ lệ mũ của thủ thuật\\thành công một bí mật trong thời gian ngắn.",
+        "description": "Có tỉ lệ thay mũ đối thủ thành bí ngô trong thời gian ngắn",
         "applicable_items": "Weapons",
         "rarity": "Fabled",
         "max_level": 5
     },
     {
         "name": "Sharpness Hook",
-        "description": "Gây sát thương bằng móc.",
+        "description": "Gây sát thương với cần câu",
         "applicable_items": "Fishing Rod",
         "rarity": "Ultimate",
         "max_level": 1
     },
     {
         "name": "Shatter",
-        "description": "Có tỉ lệ gây thêm sát thương độ bền cho tất cả áo giáp của kẻ địch trong mỗi đòn tấn công.",
+        "description": "Có tỉ lệ gây hỏng độ bền giáp đối thủ gấp đôi với mỗi đòn đánh",
         "applicable_items": "Axes",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Shockwave",
-        "description": "Có tỉ lệ đẩy lùi kẻ tấn công khi sức khỏe của bạn xuống thấp.",
+        "description": "Có tỉ lệ bật lùi đối thủ khi hp thấp",
         "applicable_items": "Chestplates",
         "rarity": "Elite",
         "max_level": 5
     },
     {
         "name": "Slayer",
-        "description": "Tăng sát thương gây ra cho Mob thụ động.",
+        "description": "Tăng sát thương gây lên mob bị động (vd: gà)",
         "applicable_items": "Swords, Axes",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Slingshot",
-        "description": "Thúc đẩy bản thân bay bằng cách nhấp chuột phải.",
+        "description": "Vào trạng thái bay khi nhấp chuột phải",
         "applicable_items": "Elytra",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Smelting",
-        "description": "Có tỉ lệ để nấu chảy các khối khai thác.",
+        "description": "Có tỉ lệ nung sẵn khối đã đào",
         "applicable_items": "Pickaxes",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Smoke Bomb",
-        "description": "Khi bạn sắp chết, bạn sẽ tạo ra một quả bom khói để đánh lạc hướng kẻ thù.",
+        "description": "Khi gần chết quăng bom khói để phân tán kẻ thù",
         "applicable_items": "Helmet",
         "rarity": "Elite",
         "max_level": 8
     },
     {
         "name": "Snap",
-        "description": "Kéo thực thể trúng đòn về phía bạn.",
+        "description": "Kéo kẻ địch về phía bạn",
         "applicable_items": "Fishing Rod",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Snare",
-        "description": "Có tỉ lệ làm chậm và làm mệt kẻ địch bằng đạn.",
+        "description": "Có tỉ lệ làm chậm đối thủ",
         "applicable_items": "Bows",
         "rarity": "Elite",
         "max_level": 4
     },
     {
         "name": "Sniper",
-        "description": "Những phát bắn bằng cung gây sát thương gấp đôi.",
+        "description": "Xuyên táo với cung gây sát thương gấp đôi",
         "applicable_items": "Bow",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Soulbound",
-        "description": "Một Có tỉ lệ để giữ vật phẩm khi chết.",
+        "description": "Một cơ hội để giữ vật phẩm khi chết.",
         "applicable_items": "Weapons + Tools + Bows",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Soulgrind",
-        "description": "Có tỉ lệ nhận được linh hồn bằng cách tiêu diệt mob.",
+        "description": "Có tỉ lệ lấy linh hồn khi giết mob",
         "applicable_items": "Swords",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Soulless",
-        "description": "Tăng sát thương gây ra cho Mob thù địch.",
+        "description": "Tăng sát thương lên quái",
         "applicable_items": "Bow, Crossbow, Trident",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Soulminer",
-        "description": "Có tỉ lệ nhận được linh hồn bằng cách khai thác.",
+        "description": "Có tỉ lệ lấy linh hồn khi đào",
         "applicable_items": "Pickaxe",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Spark",
-        "description": "Đốt cháy đối thủ.",
+        "description": "Do Thái hóa đối thủ :))",
         "applicable_items": "Trident",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Spiritmaster",
-        "description": "Có tỉ lệ nhận được nhiều linh hồn hơn từ việc giết người chơi.",
+        "description": "Có tỉ lệ lấy linh hồn nhiều hơn từ giết người chơi khác",
         "applicable_items": "Swords",
         "rarity": "Fabled",
         "max_level": 3
     },
     {
         "name": "Spirits",
-        "description": "Có tỉ lệ sinh ra ngọn lửa bảo vệ.",
+        "description": "Có tỉ lệ sinh ra quỉ lừa bảo vệ",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 10
     },
     {
         "name": "Springs",
-        "description": "Cung cấp tăng cường nhảy.",
+        "description": "Nhảy cao",
         "applicable_items": "Boots",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Strife",
-        "description": "Tăng sát thương cận chiến của Trident.",
+        "description": "Tăng sát thương cận chiến cho đinh ba",
         "applicable_items": "Trident",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Strike",
-        "description": "Có tỉ lệ tấn công sét vào đối thủ.",
+        "description": "Có tỉ lệ làm đối thủ bị sét đánh",
         "applicable_items": "Swords, Bow, Crossbow, Trident",
         "rarity": "Simple",
         "max_level": 3
     },
     {
         "name": "Striker",
-        "description": "Mưa mũi tên về phía đối thủ.",
+        "description": "Có tỉ lệ tạo mưa tên",
         "applicable_items": "Bow",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Suspend",
-        "description": "Có tỉ lệ không gây phản đòn cho mob.",
+        "description": "Có tỉ lệ không bật lùi quái",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Swordsman",
-        "description": "Có tỉ lệ giảm sát thương nhận vào khi cầm kiếm lên tới 22% ở cấp độ tối đa.",
+        "description": "Có tỉ lệ giảm sát thương nhận vào khi cầm kiếm (cao nhất 22% ở cấp tối đa)",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 5
     },
     {
         "name": "Tank",
-        "description": "Có tỉ lệ giảm sát thương từ trục của kẻ địch 2% mỗi cấp.",
+        "description": "Có tỉ lệ giảm sát thương từ rìu kẻ địch (tăng 2% mỗi lv)",
         "applicable_items": "Armor",
         "rarity": "Ultimate",
         "max_level": 4
     },
     {
         "name": "Telepathy",
-        "description": "Tự động đặt các khối bị phá vỡ bởi công cụ vào kho của bạn.",
+        "description": "Tự động đặt block bị phá bởi công cụ trong kho đồ",
         "applicable_items": "Tools",
         "rarity": "Unique",
         "max_level": 4
@@ -1135,112 +1135,112 @@
     },
     {
         "name": "Timber",
-        "description": "Có tỉ lệ bẻ gãy cây chỉ trong một đòn",
+        "description": "Có tỉ lệ chặt cây trong 1 đòn",
         "applicable_items": "Axes",
         "rarity": "Ultimate",
         "max_level": 3
     },
     {
         "name": "Trench",
-        "description": "Có tỉ lệ đột phá trong khu vực 3x3.",
+        "description": "Có tỉ lệ đào 3x3",
         "applicable_items": "Pickaxes, Shovels",
         "rarity": "Ultimate",
         "max_level": 9
     },
     {
         "name": "Trickster",
-        "description": "Khi bị đánh, bạn Có tỉ lệ dịch chuyển ngay phía sau đối thủ.",
+        "description": "khi đánh Có tỉ lệ dịch chuyển ra phía sau kẻ thù",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 8
     },
     {
         "name": "Turmoil",
-        "description": "Có tỉ lệ ngăn chặn lính canh của đối thủ sinh sản.",
+        "description": "Có tỉ lệ ngăn chặn hộ vệ của ng chơi khác spawn.",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 3
     },
     {
         "name": "Twinge",
-        "description": "Làm cho kẻ thù của bạn chảy máu nếu bị tấn công bằng đòn cận chiến.",
+        "description": "Làm chảy máu đối thủ với đòn đánh cận chiến",
         "applicable_items": "Trident",
         "rarity": "Legendary",
         "max_level": 4
     },
     {
         "name": "Unbreakable",
-        "description": "Công cụ có bùa mê này trở nên không thể phá vỡ",
+        "description": "công cụ dell bao giờ hư:)",
         "applicable_items": "Tools",
         "rarity": "Fabled",
         "max_level": 1
     },
     {
         "name": "Undead Ruse",
-        "description": "Khi bị tấn công, bạn Có tỉ lệ sinh ra đám zombie để đánh lạc hướng và làm mất phương hướng của đối thủ.",
+        "description": "Có tỉ lệ triệu hồi zombie gây phân tâm đối thủ",
         "applicable_items": "Boots",
         "rarity": "Elite",
         "max_level": 10
     },
     {
         "name": "Unholy",
-        "description": "Phòng thủ với hiệu ứng yếu đuối và khô héo.",
+        "description": "Phòng thủ khỏi hiệu ứng suy yếu và khô héo",
         "applicable_items": "Armor",
         "rarity": "Legendary",
         "max_level": 5
     },
     {
         "name": "Vampire",
-        "description": "Có tỉ lệ hồi lại cho bạn tới 3hp vài giây sau khi bạn tấn công.",
+        "description": "Có tỉ lệ hồi 3hp sau vài giây khi gây đòn đánh chí mạng",
         "applicable_items": "Swords",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Vein Miner",
-        "description": "Khai thác toàn bộ mạch quặng",
+        "description": "Đào cả 1 mỏ quặng",
         "applicable_items": "Pickaxes",
         "rarity": "Elite",
         "max_level": 3
     },
     {
         "name": "Virus",
-        "description": "Một Có tỉ lệ để tạo ra hiệu ứng độc.",
+        "description": "Có tỉ lệ gây hiệu ứng độc cho đối thủ",
         "applicable_items": "Bow, Crossbow, Trident",
         "rarity": "Unique",
         "max_level": 3
     },
     {
         "name": "Voodoo",
-        "description": "Tạo Có tỉ lệ để giải quyết điểm yếu.",
+        "description": "Có tỉ lệ gây hiệu ứng suy yếu",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 6
     },
     {
         "name": "Ward",
-        "description": "Có tỉ lệ hấp thụ sát thương của kẻ địch",
+        "description": "Có tỉ lệ né tránh sát thương từ đối thủ",
         "applicable_items": "Armor",
         "rarity": "Unique",
         "max_level": 4
     },
     {
         "name": "Water Walker",
-        "description": "Đi trên nước.",
+        "description": "Đi trên nước",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 1
     },
     {
         "name": "Wings",
-        "description": "Cho phép bay khi đeo.",
+        "description": "Bay",
         "applicable_items": "Boots",
         "rarity": "Legendary",
         "max_level": 1
     },
     {
         "name": "Wither",
-        "description": "Có tỉ lệ để tạo ra hiệu ứng héo.",
+        "description": "Có tỉ lệ gây hiệu ứng khô héo",
         "applicable_items": "Armor",
         "rarity": "Elite",
         "max_level": 5
