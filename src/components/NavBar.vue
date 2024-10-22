@@ -32,20 +32,19 @@
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://discord.gg/minevui" target="_blank"
+                        <a class="nav-link" href="https://dsc.gg/minevui" target="_blank"
                             ><i class="fa-brands fa-discord"></i> Discord
                             <i class="fa-solid fa-arrow-up-right-from-square"></i
                         ></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"
-                            ><i class="fa-solid fa-earth-americas"></i> IP: minevui.xyz</a
+                            ><i class="fa-solid fa-earth-americas"></i> IP: minevui.io.vn</a
                         >
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"
-                            ><i class="fa-solid fa-code-compare"></i> Phiên bản: Java Edition 1.18.2
-                            - 1.21</a
+                            ><i class="fa-solid fa-code-compare"></i> Phiên bản: Java Edition 1.21.1</a
                         >
                     </li>
                 </ul>
