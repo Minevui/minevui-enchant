@@ -32,7 +32,7 @@
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://dsc.gg/minevui" target="_blank"
+                        <a class="nav-link" href="https://discord.gg/minevui" target="_blank"
                             ><i class="fa-brands fa-discord"></i> Discord
                             <i class="fa-solid fa-arrow-up-right-from-square"></i
                         ></a>
@@ -44,7 +44,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"
-                            ><i class="fa-solid fa-code-compare"></i> Phiên bản: Java Edition 1.21.1</a
+                            ><i class="fa-solid fa-code-compare"></i> Phiên bản: Java 1.18.1 - 1.21.4</a
                         >
                     </li>
                 </ul>
